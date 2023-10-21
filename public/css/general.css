@@ -13,3 +13,12 @@
     text-decoration: none;
     list-style: none;
 }
+.header_nav_horizontal ul li{
+    display: inline;   
+}
+.header_uppercase{
+    text-transform: uppercase;
+}
+a{
+    color:#000000;
+}
