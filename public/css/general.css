@@ -1,0 +1,15 @@
+
+:root{
+    --color-gris:#B5ADA8;
+    --color-negro: #000000;
+    --color-verde: #389F8C;
+    --color-background:#FFFFFF;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}

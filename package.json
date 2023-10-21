@@ -1,7 +1,7 @@
 {
   "name": "clase17-ejercicio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Primera parte del trabajo, subiendo la maquetacion en html.\r 18-10-23 incorporando estilos con css",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

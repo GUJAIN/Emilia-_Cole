@@ -1,0 +1,10 @@
+
+@import'./general.css';
+@import'./about.css';
+@import'./contact.css';
+@import'./home.css';
+@import'./music.css';
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;1,400;1,700&display=swap');

@@ -1,0 +1,49 @@
+/*.about__body{
+    border:2px solid black ;
+    box-sizing: border-box;
+    background-image: url('/img/emilia-about.jpg') ;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}*/
+
+
+/*body{
+    
+    
+    
+    border: 1px solid blueviolet;
+    width: auto;
+    height:max-content;
+}
+
+.header{
+    border: 2px solid black;
+    justify-content: space-between;
+    justify-items: flex-end;
+    display: inline-block;
+   
+    
+    
+}*/
+/*.header{
+    border:2px solid black ;
+    opacity: 0.5;
+    padding-right: 10px;
+    text-align: right;
+}
+.navbar{
+    background-color:#f4f6e6;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 5px;
+}
+.nav_link li{
+    
+    display: inline-block;
+    list-style: none;    
+}
+.nav_link_icon li{
+    display: inline-block;
+    list-style: none;    
+}*/
