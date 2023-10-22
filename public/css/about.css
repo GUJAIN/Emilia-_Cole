@@ -1,5 +1,45 @@
 .about__body{
     background-image: url(/img/emilia-about.jpg);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right top;
     
-   
+}
+.about_header{
+    text-align: right;
+    padding: 20px 5px 20px 0px;
+}
+.about_icon{
+    padding-top: 10px;
+}
+#about_nav{
+    background-color: rgba(255,255,255, 0.5);
+    padding: 15px 0px;
+    font-size: 17px;
+}
+.about_titulo h1{
+    font-size: 50px;
+    margin: 50px 0px 20px 10px;
+    padding: 50px 0px;
+}
+.about_art1 h2{
+    color: var(--color-verde);
+    padding: 20px 0px 20px 35px;
+    font-weight: 300;
+    font-size: 25px;
+}
+.about_art1 h4{
+    color: var(--color-verde);
+    padding: 5px 0px 5px 35px;
+}
+.about_art2 h2{
+    color: var(--color-verde);
+    padding: 30px 0px 10px 35px;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.about_art2 h4{
+    color: var(--color-verde);
+    padding: 5px 0px 5px 35px;
 }
